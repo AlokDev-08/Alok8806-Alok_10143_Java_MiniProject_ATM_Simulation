@@ -2,7 +2,7 @@ import java.util.*;
 
 class Account {
      double balance = 2000;
-
+ 
      void withdraw(double amount) {
         if (amount <= 0) {
             System.out.println("Invalid amount");
