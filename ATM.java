@@ -5,7 +5,7 @@ class Account {
  
      void withdraw(double amount) {
         if (amount <= 0) {
-            System.out.println("Invalid amount");
+            System.out.println("Invalid amount"); 
         } else if (amount > balance) {
             System.out.println("Insufficient balance");
         } else {
