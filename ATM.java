@@ -9,7 +9,7 @@ class Account {
         } else if (amount > balance) {
             System.out.println("Insufficient balance");
         } else {
-            balance -= amount;
+            balance -= amount;  
             System.out.println("Transaction successful");
         }
     }
