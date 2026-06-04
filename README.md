@@ -1,6 +1,6 @@
 # ATM Simulation (Java OOP Project)
 
-This is a simple ATM Simulation project developed using Java. The main purpose of this project is to understand how basic banking operations work using Object-Oriented Programming (OOP) concepts.
+This is a simple ATM Simulation project developed using Java. The main purpose of this project is to understand how basic banking operations work using Object-Oriented Programming (OOP) concepts. 
 
 --- 
    
