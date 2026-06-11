@@ -6,7 +6,7 @@ This is a simple ATM Simulation project developed using Java. The main purpose o
    
 ## Features
 
-- PIN-based authentication
+- PIN-based authentication  
 - Withdraw money 
 - Check account balance
 - Simple menu-driven interface
