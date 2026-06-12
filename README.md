@@ -11,7 +11,7 @@ This is a simple ATM Simulation project developed using Java. The main purpose o
 - Check account balance
 - Simple menu-driven interface
 - Handles invalid inputs and errors 
-
+  
 ---
 
 ## Technologies Used
