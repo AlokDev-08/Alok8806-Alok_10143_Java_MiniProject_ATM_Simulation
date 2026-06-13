@@ -78,7 +78,7 @@ public class ATM {
 
             int choice = sc.nextInt();
 
-            // Handle menu selections
+            // Menu selections
             switch (choice) {
                 case 1 -> {
                     System.out.print("Enter amount: ");
